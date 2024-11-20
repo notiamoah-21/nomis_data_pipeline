@@ -1,0 +1,14 @@
+triggers:
+- description: null
+  envs: []
+  last_enabled_at: 2024-11-19 23:53:29.167895+00:00
+  name: nomis_pipeline_trigger
+  pipeline_uuid: nomis_pipeline
+  schedule_interval: '@daily'
+  schedule_type: time
+  settings: {}
+  sla: null
+  start_time: 2023-01-01
+  status: active
+  token: null
+  variables: {}
